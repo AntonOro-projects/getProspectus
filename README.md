@@ -1,4 +1,4 @@
-getProspectus
+getProspectus (this is not the complete version, I removed the database and the pdfs that are to be parsed)
 ======
 getProspectus is a service which main function is to make finding prospectus easier. The powerful search function looks through a database for all prospectus containing the search words. With the advanced search options you can choose what financial instrument you want to display, and allows you to make specific searches such as an exact match and search for a company name. With this functionality you can easily find any prospectus you need in a fraction of the time it would normally take.
 
